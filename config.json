@@ -1,0 +1,26 @@
+{
+  "log": {
+    "level": "info"
+  },
+  "inbounds": [
+    {
+      "type": "vless",
+      "listen": "::",
+      "listen_port": 80,
+      "users": [
+        {
+          "uuid": "11111111-1111-1111-1111-111111111111"
+        }
+      ],
+      "transport": {
+        "type": "ws",
+        "path": "/ws"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "direct"
+    }
+  ]
+}
