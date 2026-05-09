@@ -10,8 +10,7 @@ Simple sing-box container for ArvanCloud PaaS.
 
 ## Image
 
-latest
-ghcr.nju.edu.cn/farshad666farshad/arvan-singbox
+farshadmasiha/arvan-singbox
 latest
 
 تو آروان:
@@ -21,7 +20,7 @@ latest
 بعد:
 
 Image
-ghcr.nju.edu.cn/farshad666farshad/arvan-singbox
+farshadmasiha/arvan-singbox
 Tag
 latest
 Port
